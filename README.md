@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+![](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient)
 
 
   
