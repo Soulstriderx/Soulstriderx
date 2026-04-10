@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://camo.githubusercontent.com/17b1bf7c151bb32a86e6e90f8e6b419a5bc9c066754471dc528bd56c42d90422/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
+![](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 
   
@@ -60,6 +60,15 @@ Here is a short (and very exhaustive) list of my past projects or collaborated p
 ### Overview
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soulstriderx&theme=tokyonight)
+
+<details>
+  <summary>Recent Activity Graph</summary>
+
+![Soulstriderx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soulstriderx&theme=tokyo-night)
+  
+</details>
+
+---
 
 Leave a message in my [Guestbook](https://github.com/Soulstriderx/Soulstriderx/issues)
 <br>
