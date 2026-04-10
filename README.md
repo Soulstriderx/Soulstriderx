@@ -51,11 +51,16 @@ Here is a short (and very exhaustive) list of my past projects or collaborated p
 - [Alumni App](https://github.com/Jeromee1/Alumni-Directory-Mobile-App) `Kotlin / Firebase`
   - Mobile Semester 2 Collaborative Project
   - I was in-charge of the back-end using Firebase
-  - Filled with dummy-data
   - Alumni are able to register and await approval from admins as it enforces an internal membership system. Users are able to track each other through an internal profile and keep in touch.
-  
-  
-  
+
+<div align="center">
+
+### Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soulstriderx&theme=tokyonight)
+
+</div>
+
 
 
 
