@@ -74,7 +74,7 @@ Leave a message in my [Guestbook](https://github.com/Soulstriderx/Soulstriderx/i
 
 ### 👋 Alex Sim 
 
-[![Email](https://img.shields.io/badge/Email-alex@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lexxy1994@gmail.com) <br>
+[![Email](https://img.shields.io/badge/Email-lexxy1994@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lexxy1994@gmail.com) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Soulstriderx-181717?style=for-the-badge&logo=github)](https://github.com/Soulstriderx) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sim-kwang-hau/) <br>
 ![Status](https://img.shields.io/badge/Full%20Stack%20%7C%20Student-22C55E?style=for-the-badge&logo=github&logoColor=white)
