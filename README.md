@@ -59,6 +59,13 @@ Here is a short (and very exhaustive) list of my past projects or collaborated p
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soulstriderx&theme=tokyonight)
 
+Leave a message in my [Guestbook](https://github.com/Soulstriderx/guestbook/issues")
+<br>
+<br>
+<a href="https://github.com/Soulstriderx/guestbook/issues">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220">
+</a>
+
 </div>
 
 ---
